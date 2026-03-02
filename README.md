@@ -36,11 +36,11 @@ Building [Savi AI](https://www.trysavi.app) — AI-powered goal & habit tracking
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Manasbits)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manasbits&layout=compact)
 
 ---
 
