@@ -41,12 +41,12 @@ I build full-stack web products end-to-end — from frontend UI to backend infra
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Manasbits&show_icons=true&theme=transparent&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasbits&layout=compact&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-stats.vercel.app/api?username=Manasbits&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasbits&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Manasbits&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Manasbits&theme=transparent&hide_border=true" />
 </p>
 
 ---
