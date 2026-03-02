@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-Full Stack Engineer • BITS Pilani, Goa Campus  
+I build full-stack web products end-to-end — from frontend UI to backend infra and AI pipelines. I care about fast iteration, clean architecture, and shipping things that actually work.
 <br/>
-Building <a href="https://www.trysavi.app"><b>Savi AI</b></a> — AI-powered goal & habit operating system
+I'm studying Computer Science + Economics at BITS Pilani, and in my spare time I obsess over AI tooling, trading systems, and developer experience.
 </p>
 
 <p align="center">
