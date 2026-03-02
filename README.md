@@ -63,7 +63,9 @@ Building <a href="https://www.trysavi.app"><b>Savi AI</b></a> — AI-powered goa
 Building → AI Products
 Learning → Distributed Systems
 Goal → Elite Product Engineer
-🌍 Connect With Me
+```
+## 🌍 Connect With Me
+
 <p align="center"> <a href="https://www.linkedin.com/in/manas-choudhary-320241261/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://manasdevs.me"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/> </a> </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Manasbits&style=flat-square&color=blue" /> </p>
-```
+
