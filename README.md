@@ -40,11 +40,22 @@ I build full-stack web products end-to-end — from frontend UI to backend infra
 
 ## 📊 GitHub Analytics
 
+### Stats
 <p align="center">
   <img height="165" src="https://github-stats.vercel.app/api?username=Manasbits&show_icons=true&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manasbits&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
+### Trophies
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Manasbits&theme=onedark&no-frame=true&row=1" />
+</p>
+
+### Activity Graph
+<p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manasbits&theme=github-compact&hide_border=true" />
+</p>
+
+### Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Manasbits&theme=transparent&hide_border=true" />
 </p>
