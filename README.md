@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-I build full-stack web products end-to-end — from frontend UI to backend infra and AI pipelines. I care about fast iteration, clean architecture, and shipping things that actually work.
-<br/>
-I'm studying Computer Science + Economics at BITS Pilani, and in my spare time I obsess over AI tooling, trading systems, and developer experience.
+I build full-stack web products end-to-end — from frontend UI to backend infra and AI pipelines. I care about fast iteration, clean architecture, and shipping things that actually work. I'm studying Computer Science + Economics at BITS Pilani, and in my spare time I obsess over AI tooling, trading systems, and developer experience.
 </p>
 
 
