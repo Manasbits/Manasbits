@@ -10,10 +10,6 @@ I build full-stack web products end-to-end — from frontend UI to backend infra
 I'm studying Computer Science + Economics at BITS Pilani, and in my spare time I obsess over AI tooling, trading systems, and developer experience.
 </p>
 
-<p align="center">
-<a href="https://manasdevs.me">Portfolio</a> •
-<a href="https://www.linkedin.com/in/manas-choudhary-320241261/">LinkedIn</a>
-</p>
 
 ---
 
