@@ -32,20 +32,21 @@ Building [Savi AI](https://www.trysavi.app) — AI-powered goal & habit tracking
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manasbits&show_icons=true)
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manas-choudhary-320241261/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://zahid.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://manasdevs.me)
 
-<!--
-**Manasbits/Manasbits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
